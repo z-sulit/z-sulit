@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd Year Data Science Student<br>Likes to study data, anything related to automobiles. 
+3rd Year Data Science Student<br>
 
 
 ## 🌐 Socials:
