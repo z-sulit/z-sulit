@@ -1,5 +1,5 @@
 # 💫 About Me
-**3rd Year Data Science Student** based in the Philippines.
+**Data Science Student**
 <br>
 
 ## 🌐 Socials
@@ -46,7 +46,3 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-sulit&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=z-sulit&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
