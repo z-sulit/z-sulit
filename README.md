@@ -4,7 +4,7 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-lorenzo-sulit-ba9483369/)
-
+[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/zachary.sulit/vizzes)
 ---
 
 ## 💻 Tech Stack
