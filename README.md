@@ -1,7 +1,7 @@
 # 💫 About Me
 **Data Science Student**
 
-Website: https://z-sulit.github.io/MyWebsite/
+
 <br>
 
 ## 🌐 Socials
