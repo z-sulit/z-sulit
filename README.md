@@ -15,7 +15,7 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z-sulit&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=z-sulit&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
 </div>
 
 <br>
