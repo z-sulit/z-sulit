@@ -15,7 +15,7 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z-sulit&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=z-sulit&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
