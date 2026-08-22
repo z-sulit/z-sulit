@@ -1,4 +1,3 @@
-# Zachary Lorenzo Sulit
 **Data Science Student**
 
 ---
