@@ -1,7 +1,3 @@
-**Data Science Student**
-
----
-
 ### Tech Stack
 
 * **Data Science & ML:** Python, R, PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy
