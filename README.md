@@ -1,8 +1,8 @@
 ### Tech Stack
 
-* **Data Science & ML:** Python, R, PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy
+* **Data Science & ML:** Python, R
 * **Data Visualization & Analytics:** Power BI, Tableau, Snowflake, Microsoft Excel
-* **Languages & Databases:** SQL, PostgreSQL, SQLite, C++, Go, JavaScript, HTML5, CSS3
+* **Languages & Databases:** SQL, PostgreSQL, SQLite, C++, Go, JavaScript, HTML5, CSS3, TypeScript
 * **Tools & Platforms:** Git, VS Code, PyCharm, Jupyter, Google Colab, Figma, Krita
 
 ---
