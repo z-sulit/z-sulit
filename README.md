@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=z-sulit&theme=radical" alt="GitHub Stats" />
