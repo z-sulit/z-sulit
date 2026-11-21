@@ -6,9 +6,6 @@ Python, R, SQL, C++, Go, JavaScript, TypeScript
 ### Data Science & Machine Learning
 Pandas, NumPy, SciPy, Statsmodels, Scikit-Learn, PyTorch, TensorFlow, Keras, BentoML
 
-### Geospatial, Scraping & Optimization
-GeoPandas, Shapely, Folium, pydeck, geopy, BeautifulSoup, Selenium, PyMuPDF, IBM ILOG CPLEX
-
 ### Backend & Web Development
 Node.js, Express.js, NestJS, FastAPI, Prisma, React, Tailwind CSS
 
