@@ -1,9 +1,28 @@
-### Tech Stack
+### Stack
 
-- **Data Science & ML:** Python, R
-- **Data Visualization & Analytics:** Power BI, Tableau, Snowflake, Microsoft Excel
-- **Languages & Databases:** SQL, PostgreSQL, SQLite, C++, Go, JavaScript, HTML5, CSS3, TypeScript
-- **Tools & Platforms:** Git, VS Code, PyCharm, Jupyter, Google Colab, Figma, Krita
+### Languages
+Python, R, SQL, C++, Go, JavaScript, TypeScript
+
+### Data Science & Machine Learning
+Pandas, NumPy, SciPy, Statsmodels, Scikit-Learn, PyTorch, TensorFlow, Keras, BentoML
+
+### Geospatial, Scraping & Optimization
+GeoPandas, Shapely, Folium, pydeck, geopy, BeautifulSoup, Selenium, PyMuPDF, IBM ILOG CPLEX
+
+### Backend & Web Development
+Node.js, Express.js, NestJS, FastAPI, Prisma, React, Tailwind CSS
+
+### Databases & Data Warehousing
+PostgreSQL, MySQL, SQLite, Snowflake
+
+### Data Visualization & Analytics
+Power BI, Tableau, Matplotlib, Seaborn, Plotly, Microsoft Excel
+
+### Tools, Cloud & Agentic Workflows
+Git, GitHub, Docker, Google ADK, Linear, VS Code, Cursor, PyCharm, Jupyter Notebook, Google Colab, Overleaf
+
+### Design & Creative
+Figma, Krita, piZap
 
 ---
 
