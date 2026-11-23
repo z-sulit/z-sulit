@@ -16,10 +16,10 @@ PostgreSQL, MySQL, SQLite, Snowflake
 Power BI, Tableau, Matplotlib, Seaborn, Plotly, Microsoft Excel
 
 ### Tools, Cloud & Agentic Workflows
-Git, GitHub, Docker, Google ADK, Linear, VS Code, Cursor, PyCharm, Jupyter Notebook, Google Colab, Overleaf
+Git, GitHub, Docker, Google ADK, VS Code, Cursor, PyCharm, Jupyter Notebook, Google Colab
 
 ### Design & Creative
-Figma, Krita, piZap
+Figma, Krita
 
 ---
 
